@@ -40,7 +40,7 @@ The inclusion of `<windows.h>` allows the use of SetConsoleOutputCP for renderin
 The design is compatible with the terminal that supports UTF-8 glyphs.
 
 ## 4.In-Game Preview
-![Game Preview](https://drive.google.com/file/d/1ErXPLNffo5Wix2AcMTD0WB3SHHZ4YQOt/view?usp=sharing)
+![Game Preview](https://drive.google.com/file/d/1ErXPLNffo5Wix2AcMTD0WB3SHHZ4YQOt/view)
 
 ## 5. Project Structure
 The project is organized into a modular structure to separate the game logic, rendering, and file management.
